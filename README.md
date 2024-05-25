@@ -51,7 +51,7 @@ These dependencies are utilized to facilitate the development of a Spring Boot a
 ## Swagger Documentation
 
 To view and test the methods, Swagger can be utilized. Access Swagger documentation via the following link:
-[Swagger Documentation](http://localhost:8085/swagger-ui.html)
+(http://localhost:8085/swagger-ui.html)
 
 ## Project Structure
 
